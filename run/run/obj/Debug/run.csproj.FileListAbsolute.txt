@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\run\run\bin\Debug\run.exe.config
+C:\Users\Administrator\source\repos\run\run\bin\Debug\run.exe
+C:\Users\Administrator\source\repos\run\run\bin\Debug\run.pdb
+C:\Users\Administrator\source\repos\run\run\obj\Debug\run.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\run\run\obj\Debug\run.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\run\run\obj\Debug\run.Form1.resources
+C:\Users\Administrator\source\repos\run\run\obj\Debug\run.Properties.Resources.resources
+C:\Users\Administrator\source\repos\run\run\obj\Debug\run.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\run\run\obj\Debug\run.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\run\run\obj\Debug\run.exe
+C:\Users\Administrator\source\repos\run\run\obj\Debug\run.pdb
+C:\Users\Administrator\source\repos\run\run\bin\Debug\run.exe.manifest
+C:\Users\Administrator\source\repos\run\run\bin\Debug\run.application
+C:\Users\Administrator\source\repos\run\run\obj\Debug\run.exe.manifest
+C:\Users\Administrator\source\repos\run\run\obj\Debug\run.application
